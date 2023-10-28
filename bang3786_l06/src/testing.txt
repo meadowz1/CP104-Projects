@@ -1,0 +1,144 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author: Mike Bangar
+ID:     169073786
+Email:  bang3786@mylaurier.ca
+__updated__ = "2023-10-27"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+The sum of all even numbers in 210 is 10920.
+
+The sum of all even numbers in 10230 is 26158110.
+
+The sum of all even numbers in 21 is 110.
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+###
+###
+###
+
+Height = 3
+Width = 3
+
+
+**************
+**************
+**************
+**************
+**************
+**************
+
+Height = 6
+Width = 14
+
+
+!!!!!!!!
+!!!!!!!!
+!!!!!!!!
+!!!!!!!!
+
+Height = 4
+Width = 8
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t09
+
+5 bottles of beer on the wall, 5 bottles of beer.
+Take one down, pass it around, 4 bottles of beer on the wall.
+ 
+4 bottles of beer on the wall, 4 bottles of beer.
+Take one down, pass it around, 3 bottles of beer on the wall.
+ 
+3 bottles of beer on the wall, 3 bottles of beer.
+Take one down, pass it around, 2 bottles of beer on the wall.
+ 
+2 bottles of beer on the wall, 2 bottles of beer.
+Take one down, pass it around, 1 bottle of beer on the wall.
+ 
+1 bottle of beer on the wall, 1 bottle of beer.
+Take one down, pass it around, no more bottles of beer on the wall.
+
+-- 
+
+3 bottles of beer on the wall, 3 bottles of beer.
+Take one down, pass it around, 2 bottles of beer on the wall.
+ 
+2 bottles of beer on the wall, 2 bottles of beer.
+Take one down, pass it around, 1 bottle of beer on the wall.
+ 
+1 bottle of beer on the wall, 1 bottle of beer.
+Take one down, pass it around, no more bottles of beer on the wall.
+ 
+--
+
+1 bottle of beer on the wall, 1 bottle of beer.
+Take one down, pass it around, no more bottles of beer on the wall.
+ 
+-------------------------------------------------------
+
+-------------------------------------------------------
+t10
+
+Calories burnt after 5 minutes: 19.5
+Calories burnt after 7 minutes: 27.3
+Calories burnt after 9 minutes: 35.1
+Calories burnt after 11 minutes: 42.9
+Calories burnt after 13 minutes: 50.699999999999996
+Calories burnt after 15 minutes: 58.5
+Calories burnt after 17 minutes: 66.3
+Calories burnt after 19 minutes: 74.1
+
+Calories burnt after 3 minutes: 63.599999999999994
+Calories burnt after 8 minutes: 169.6
+Calories burnt after 13 minutes: 275.59999999999997
+Calories burnt after 18 minutes: 381.59999999999997
+
+Calories burnt after 3 minutes: 13.799999999999999
+Calories burnt after 8 minutes: 36.8
+Calories burnt after 13 minutes: 59.8
+Calories burnt after 18 minutes: 82.8
+Calories burnt after 23 minutes: 105.8
+Calories burnt after 28 minutes: 128.79999999999998
+Calories burnt after 33 minutes: 151.79999999999998
+Calories burnt after 38 minutes: 174.79999999999998
+Calories burnt after 43 minutes: 197.79999999999998
+Calories burnt after 48 minutes: 220.79999999999998
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t15
+
+Enter a value: 5
+Enter a value: 10
+Enter a value: 15
+Enter a value: 2
+Enter a value: 25
+(2.00, 25.00, 57.00, 11.40)
+
+Enter a value: 21
+Enter a value: 42
+Enter a value: 5
+Enter a value: -7.2
+Enter a value: 31.2
+(-7.20, 42.00, 92.00, 18.40)
+
+Enter a value: 7.27
+Enter a value: 727
+Enter a value: -72.7
+Enter a value: 727727
+Enter a value: 7.2727
+(-72.70, 727727.00, 728395.84, 145679.17)
+
+-------------------------------------------------------

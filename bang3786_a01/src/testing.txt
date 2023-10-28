@@ -1,0 +1,152 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author: Mike Bangar
+ID:     169073786
+Email:  bang3786@mylaurier.ca
+__updated__ = "2023-10-07"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Enter total sales: $10000
+
+Projected Tax Report
+--------------------------
+Total Sales: $10000.00
+Annual Tax:  %18.50
+--------------------------
+Tax:         $1850.00
+
+
+
+Enter total sales: $32000
+
+Projected Tax Report
+--------------------------
+Total Sales: $32000.00
+Annual Tax:  %18.50
+--------------------------
+Tax:         $5920.00
+
+
+
+Enter total sales: $250000
+
+Projected Tax Report
+--------------------------
+Total Sales: $250000.00
+Annual Tax:  %18.50
+--------------------------
+Tax:         $46250.00
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+Enter a positive digit number: 25
+The difference of the digits of 25 is -3
+
+Enter a positive digit number: 66
+The difference of the digits of 66 is 0
+
+Enter a positive digit number: 47
+The difference of the digits of 47 is -3
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+
+Enter a date in the format YYYYMMDD: 20231023
+The reformatted date: 2023/10/23
+
+Enter a date in the format YYYYMMDD: 19621025
+The reformatted date: 1962/10/25
+
+Enter a date in the format YYYYMMDD: 20050529
+The reformatted date: 2005/05/29
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+Number of flyers: 1400
+Number of delivery people: 12
+
+Flyers per delivery person: 116
+Flyers left over: 8
+
+
+
+Number of flyers: 26500
+Number of delivery people: 18
+
+Flyers per delivery person: 1472
+Flyers left over: 4
+
+
+
+Number of flyers: 2500
+Number of delivery people: 25
+
+Flyers per delivery person: 100
+Flyers left over: 0
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+Foundation length (m): 4
+Foundation width (m): 2
+Foundation height (m): 0.6
+Wall height (m):2.5
+Cost of concrete ($/m^3): 125
+Cost of brick ($/m^2): 94
+
+Concrete needed for foundation (m^3): 4.80
+Cost of concrete: $600.00
+Bricks needed for walls (m^2): 30.00
+Cost of bricks: $2820.00
+Total cost: $3420.00
+
+
+
+Foundation length (m): 2
+Foundation width (m): 2
+Foundation height (m): 2
+Wall height (m): 2
+Cost of concrete ($/m^3): 2
+Cost of brick ($/m^2): 2
+
+Concrete needed for foundation (m^3): 8.00
+Cost of concrete: $16.00
+Bricks needed for walls (m^2): 16.00
+Cost of bricks: $32.00
+Total cost: $48.00
+
+
+
+Foundation length (m): 25
+Foundation width (m): 40
+Foundation height (m): 1
+Wall height (m): 25
+Cost of concrete ($/m^3): 156
+Cost of brick ($/m^2): 200
+
+Concrete needed for foundation (m^3): 1000.00
+Cost of concrete: $156000.00
+Bricks needed for walls (m^2): 3250.00
+Cost of bricks: $650000.00
+Total cost: $806000.00
+
+
+-------------------------------------------------------

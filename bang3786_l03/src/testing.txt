@@ -1,0 +1,133 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author: Mike Bangar
+ID:     169073786
+Email:  bang3786@mylaurier.ca
+__updated__ = "2023-09-29"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+'I'm a Little Astronaut' by Jean Warren
+
+
+'I'm a Little Astronaut' by Jean Warren
+
+I'm a little astronaut
+    Flying to the moon.
+        My rocket is ready,
+        We blast off soon.
+
+
+'I'm a Little Astronaut' by Jean Warren
+
+I'm a little astronaut
+    Flying to the moon.
+        My rocket is ready,
+        We blast off soon.
+I climb aboard
+    And close the hatch.
+        5-4-3-2-1, off we blast!
+        
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+Enter number: 500
+Enter percent: 10.5
+A 10.5 percent discount on 500.0 is 52.5
+
+Enter number: 100
+Enter percent: 9.6
+A 9.6 percent discount on 100.0 is 9.6
+
+Enter number: 500
+Enter percent: 10.25
+A 10.2 percent discount on 500.0 is 51.2
+
+-------------------------------------------------------
+
+
+-------------------------------------------------------
+t07
+
+Enter cost of breakfast: $6.75
+Enter cost of lunch: $19.34
+Enter cost of supper: $112.61
+
+Meal         Cost
+Breakfast    $  6.75
+Lunch        $ 19.34
+Supper       $112.61
+Total        $138.70
+
+Enter cost of breakfast: $21.55
+Enter cost of lunch: $12.95
+Enter cost of supper: $86.14
+
+Meal         Cost
+Breakfast    $ 21.55
+Lunch        $ 12.95
+Supper       $ 86.14
+Total        $120.64
+
+Enter cost of breakfast: $212.55
+Enter cost of lunch: $991.15
+Enter cost of supper: $882.34
+
+Meal         Cost
+Breakfast    $212.55
+Lunch        $991.15
+Supper       $882.34
+Total        $2086.04
+
+-------------------------------------------------------
+
+
+-------------------------------------------------------
+t11
+
+left----------------
+-------middle-------
+---------------right
+
+left------------------------------------
+-----------------middle-----------------
+-----------------------------------right
+
+left--------------------------------------------------------
+---------------------------middle---------------------------
+-------------------------------------------------------right
+
+-------------------------------------------------------
+
+
+-------------------------------------------------------
+t15
+
+Traceback (most recent call last):
+  File "D:\2023-2024 UNI\CP104\Projects\bang3786_l03\src\t15.py", line 18, in <module>
+654321
+654321.000000
+    print(f"{integer:s}")
+ValueError: Unknown format code 's' for object of type 'int'
+
+654321
+654321.000000
+Traceback (most recent call last):
+  File "D:\2023-2024 UNI\CP104\Projects\bang3786_l03\src\t15.py", line 20, in <module>
+    print(f"{decimal:d}")
+ValueError: Unknown format code 'd' for object of type 'float'
+
+654321
+654321.000000
+654.320000
+Hello World
+
+
+-------------------------------------------------------
+

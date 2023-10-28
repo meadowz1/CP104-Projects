@@ -1,0 +1,202 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author: Mike Bangar
+ID:     169073786
+Email:  bang3786@mylaurier.ca
+__updated__ = "2023-09-11"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Temperature (C): 21
+Temperature (F): 69.80000000000001
+
+Temperature (C): 21
+Temperature (F): 69.8
+
+Temperature (C): 25
+Temperature (F): 77.0
+
+Temperature (C): 25
+Temperature (F): 77.0
+
+Temperature (F): 40
+Temperature (C): 4.4
+
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+Temperature (F): 77
+Temperature (C): 25.0
+
+Temperature (F): 90
+Temperature (C): 32.2
+
+Temperature (F): 99
+Temperature (C): 37.2
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+
+Number of large dogs groomed: 4
+Number of small dogs groomed: 8
+Total earned for the day: $ 700
+
+Number of large dogs groomed: 8
+Number of small dogs groomed: 4
+Total earned for the day: $ 800
+
+Number of large dogs groomed:  19
+Number of small dogs groomed: 26
+Total earned for the day: $ 2725
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+First numerator: 1
+First denominator: 2
+Second numerator: 2
+Second denominator: 3
+Product: 0.3333333333333333
+
+First numerator: 9
+First denominator: 2
+Second numerator: 7
+Second denominator: 5
+Product: 6.3
+
+First numerator: 8
+First denominator: 3
+Second numerator: 12
+Second denominator: 5
+Product: 6.4
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+Hourly rate of pay: $15.50
+Hours worked in the week: 40
+Total pay for the week: $ 620.0
+
+Hourly rate of pay: $40
+Hours worked in the week: 55
+Total pay for the week: $ 2200.0
+
+Hourly rate of pay: $65
+Hours worked in the week: 20
+Total pay for the week: $ 1300.0
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+
+Mortgage principal ($): 200000
+Number of years: 20
+Yearly interest rate (%): 5
+The monthly payment are: $ 1319.9114784333174
+
+Mortgage principal ($): 800000
+Number of years: 25
+Yearly interest rate (%): 8
+The monthly payment are: $ 6174.529754984044
+
+Mortgage principal ($): 750000
+Number of years: 25
+Yearly interest rate (%): 6
+The monthly payment are: $ 4832.260511141359
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+
+Number of flyers: 10000
+Number of volunteers: 22
+Flyers per volunteer:  454
+Flyers left over:  12
+
+Number of flyers: 96
+Number of volunteers: 3
+Flyers per volunteer:  32
+Flyers left over:  0
+
+Number of flyers: 25000
+Number of volunteers: 45
+Flyers per volunteer:  555
+Flyers left over:  25
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t08
+
+Enter your height (m): 1.8
+Enter your weight (kg): 76
+Enter your upper limit BMI (23 if you are from South East Asia and Southern China, 25 for everyone else): 23
+Body Mass Index (kg/m^2) =  23.456790123456788
+BMI Prime =  1.019860440150295
+
+Enter your height (m): 1.85
+Enter your weight (kg): 103
+Enter your upper limit BMI (23 if you are from South East Asia and Southern China, 25 for everyone else): 25
+Body Mass Index (kg/m^2) =  30.094959824689553
+BMI Prime =  1.2037983929875822
+
+Enter your height (m):  1.4
+Enter your weight (kg): 60
+Enter your upper limit BMI (23 if you are from South East Asia and Southern China, 25 for everyone else): 25
+Body Mass Index (kg/m^2) =  30.612244897959187
+BMI Prime =  1.2244897959183674
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t09
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t10
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t11
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t12
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t13
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t14
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t15
+
+-------------------------------------------------------
+

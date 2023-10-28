@@ -1,0 +1,97 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author: Mike Bangar
+ID:     169073786
+Email:  bang3786@mylaurier.ca
+__updated__ = "2023-09-30"
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+What is a "program"?
+
+A program is a sequence of instructions that specifies how to perform a computation. The details look different in different languages, but a few basic instructions appear in just about every language:
+input: Get data from the keyboard, a file, or some other device.
+output: Display data on the screen or send data to a file or other device.
+math: Perform basic mathematical operations like addition and multiplication.
+conditional execution: Check for certain conditions and execute the appropriate code.
+repetition: Perform some action repeatedly, usually with some variation.
+
+Believe it or not, that's pretty much all there is to it.
+"You have enemies? Good. That means you've stood up for something, sometime in your life." Winston Churchill 
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+What is your age? 60
+What is your favourite band? The Beatles
+I am 60 years old and The Beatles is my favourite band.
+
+What is your age? 18
+What is your favourite band? kessoku band
+I am 18 years old and kessoku band is my favourite band.
+
+What is your age? 69
+What is your favourite band? snoop dawg if he was one
+I am 69 years old and snoop dawg if he was one is my favourite band.
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+
+Length in miles: 35
+Length in km: 56.35
+
+Length in miles: 69
+Length in km: 111.09
+
+Length in miles: 3069
+Length in km: 4941.09
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+Cost of one dosa: $1.95
+Number of dosa: 3
+Total cost of 3 dosas: $5.85
+
+Cost of one dosa: $4.65
+Number of dosa: 5
+Total cost of 5 dosas: $23.25
+
+Cost of one dosa: $2.25
+Number of dosa: 36
+Total cost of 36 dosas: $81.00
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+Principal: $5000
+Interest (%): 5
+Number of years: 10
+Number of times interest compounded per year: 12
+Balance = $8235.0474884514
+
+Principal: $100000
+Interest (%): 2.54
+Number of years: 25
+Number of times interest compounded per year: 12
+Balance = $188575.61954613382
+
+Principal: $250000
+Interest (%): 5.65
+Number of years: 40
+Number of times interest compounded per year: 12
+Balance = $2383099.291055747
+
+-------------------------------------------------------
