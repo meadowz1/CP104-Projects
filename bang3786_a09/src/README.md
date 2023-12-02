@@ -8,8 +8,8 @@ Updated: 2023-12-02
 ## Overview
 This repository contains a Python script (assignment_9_functions.py) that includes several functions designed to perform various tasks related to file handling and data analysis. Each task is encapsulated within a specific function, making the code modular and easy to understand.
 
-## Functions
-Task 1: file_top(file_handle, count)
+### Functions
+## Task 1: file_top(file_handle, count)
 Prints the first count lines of the specified file (file_handle). The line numbering starts at 0.
 
 ## Task 2: read_integers(file_handle)
