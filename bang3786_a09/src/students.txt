@@ -1,0 +1,9 @@
+Patel,Bina,820000095,54
+Xu,Weilin,820000046,68
+Santos,Jose,820000023,73
+Brown,David,820000000,92
+Pavlova,Danica,820000037,71
+Smith,Bina,820000041,59
+Dang,Bob,820000075,44
+Snord,Cranston,820000019,84
+Thomson,Mi-Leng,820000055,77

@@ -1,0 +1,136 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author: Mike Bangar
+ID:     169073786
+Email:  bang3786@mylaurier.ca
+__updated__ = '2023-12-02'
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Whenever I get a package of plain M&Ms, 
+I make it my duty to continue the strength and robustness of the 
+candy as a species. To this end, I hold M&M duels. Taking two 
+candies between my thumb and forefinger, I apply pressure, squeezing 
+them together until one of them cracks and splinters. That is the 
+
+(nothing printed)
+
+Whenever I get a package of plain M&Ms, 
+I make it my duty to continue the strength and robustness of the 
+candy as a species. To this end, I hold M&M duels. Taking two 
+candies between my thumb and forefinger, I apply pressure, squeezing 
+them together until one of them cracks and splinters. That is the 
+“loser,” and I eat the inferior one immediately. The winner gets to 
+go another round. I have found that, in general, the brown and red 
+M&Ms are tougher, and the newer blue ones are genetically inferior. 
+I have hypothesized that the blue M&Ms as a race cannot survive long 
+in the intense theater of competition that is the modern candy and 
+snack-food world. Occasionally I will get a mutation, a candy that 
+is misshapen, or pointier, or flatter than the rest. 
+Almost invariably this proves to be a weakness, but on very rare 
+occasions it gives the candy extra strength. In this way, the species 
+continues to adapt to its environment. When I reach the end of the 
+pack, I am left with one M&M, the strongest of the herd. 
+Since it would make no sense to eat this one as well, 
+I pack it neatly in an envelope and send it to M&M Mars, 
+A Division of Mars, Inc., Hackettstown, NJ 17840-1503 U.S.A., 
+along with a 3×5 card reading, 
+“Please use this M&M for breeding purposes.” 
+This week they wrote back to thank me, 
+and sent me a coupon for a free 1/2 pound bag of plain M&Ms. 
+I consider this “grant money.” 
+I have set aside the weekend for a grand tournament. 
+From a field of hundreds, we will discover the True Champion. 
+There can be only one.
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+
+[10, 20, 30, 40, 50, 60, 90, 80, 70, 11, 22, 13, 14, 14, 20]
+
+[5, 10, 20, 30, 40]
+
+[]
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+
+Upper-case letters: 50
+Lower-case letters: 114
+Digits: 15
+White-space characters: 44
+Remaining characters: 15
+
+Upper-case letters: 9
+Lower-case letters: 47
+Digits: 10
+White-space characters: 12
+Remaining characters: 13
+
+Upper-case letters: 0
+Lower-case letters: 0
+Digits: 0
+White-space characters: 0
+Remaining characters: 0
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04
+
+Success
+(part of file 1):
+[0] Quotes from Oscar Wilde - 1854 - 1900
+[1] 
+[2] "Always forgive your enemies; nothing annoys them so much."
+[3] 
+[4] "Be yourself; everyone else is already taken."
+[5] 
+[6] "To live is the rarest thing in the world. Most people exist, that is all."
+[7]  
+[8] "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught."
+[9] 
+[10] "The public is wonderfully tolerant. It forgives everything except genius."
+[11] 
+[12] "Be yourself; everyone else is already taken."
+[13] 
+[14] "Some cause happiness wherever they go; others whenever they go."
+
+Success
+(file 2):
+[0] This is line 1.
+[1] This is line 2.
+[2] This is line 3.
+[3] This is line 4.
+[4] This is line 5.
+
+Success
+(file 3):
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+Lowest Mark Student ID: 820000075
+Highest Mark Student ID: 820000000
+Average Mark: 69.11111111111111
+
+Lowest Mark Student ID: 1003
+Highest Mark Student ID: 1005
+Average Mark: 87.9
+
+Lowest Mark Student ID: 0
+Highest Mark Student ID: 0
+Average Mark: 0.0
+
+-------------------------------------------------------

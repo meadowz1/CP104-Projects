@@ -1,0 +1,5 @@
+Doe,John,1001,85.5
+Smith,Jane,1002,92.0
+Brown,Michael,1003,78.5
+Johnson,Emily,1004,88.0
+Lee,David,1005,95.5
