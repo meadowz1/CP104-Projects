@@ -1,10 +1,6 @@
 # Assignment 9 Functions
 ### Author
 Mike Bangar
-ID: 169073786
-Email: bang3786@mylaurier.ca
-Updated: 2023-12-02
-
 ## Overview
 This repository contains a Python script (assignment_9_functions.py) that includes several functions designed to perform various tasks related to file handling and data analysis. Each task is encapsulated within a specific function, making the code modular and easy to understand.
 
