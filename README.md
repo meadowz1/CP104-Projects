@@ -13,6 +13,7 @@ The questions will not be included as a part of the uploads.
 Most of the code will be formatted like this:
 ![code snippet](images/codeexample.png)
 
-If you a part of this course, please make sure to not copy but use this as reference material for future projects
+If you a part of this course, please make sure to not copy.
+[^1]: Please keep in mind that I uploaded my code for reference purposes and it is my work. If this is used anywhere please be sure to credit this properly.
 
 Thanks and enjoy <3
