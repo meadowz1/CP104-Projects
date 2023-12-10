@@ -1,4 +1,6 @@
 # CP104 Projects
+[https://img.shields.io/github/last-commit/meadowz1/CP104-Projects/main?color=purple]
+
 This is my first year assignments and labs I did in the CP104 course at WLU.
 
 Each of these are from the 2023-2024 Fall Semester.
