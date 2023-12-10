@@ -1,4 +1,5 @@
 ![logo](images/logo.png)
+
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/meadowz1/CP104-Projects/main?color=purple)
 
 [Join My Discord](https://discord.gg/t9GydawyyF)
