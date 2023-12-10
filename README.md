@@ -11,6 +11,7 @@ Some labs may not be included as they were worked on an assigned basis.
 The questions will not be included as a part of the uploads. 
 
 Most of the code will be formatted like this:
+
 <img src="images/codeexample.png" width="400" height="500">
 
 If you a part of this course, please make sure to not copy. [^1]
