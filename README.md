@@ -1,6 +1,6 @@
 ![logo](images/logo.png)
 
-![GitHub Last Commit](https://img.shields.io/github/last-commit/meadowz1/CP104-Projects/main?color=purple)  ![Join My Discord](https://discord.gg/t9GydawyyF)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/meadowz1/CP104-Projects/main?color=purple)  ![Join My Discrod](https://img.shields.io/discord/1183252580168638538)
 
 This is my first year assignments and labs I did in the CP104 course at WLU.
 
