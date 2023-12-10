@@ -11,7 +11,7 @@ Some labs may not be included as they were worked on an assigned basis.
 The questions will not be included as a part of the uploads. 
 
 Most of the code will be formatted like this:
-![code snippet](images/codeexample.png)
+![code snippet](images/codeexample.png = 700x350)
 
 If you a part of this course, please make sure to not copy. [^1]
 [^1]: Please keep in mind that I uploaded my code for reference purposes and it is my work. If this is used anywhere please be sure to credit this properly.
