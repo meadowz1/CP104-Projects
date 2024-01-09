@@ -4,6 +4,8 @@
 
 [Join My Discord](https://discord.gg/93JaCgBb5M)
 
+[Written Study Guide For CP104 Students](https://docs.google.com/document/d/1qTgdZEJway8ytHJc6gYpoQlS6m_WNDy7nnYrXJL7jYI/edit?usp=sharing)
+
 This is my first year assignments and labs I did in the CP104 course at WLU.
 
 Each of these are from the 2023-2024 Fall Semester.
